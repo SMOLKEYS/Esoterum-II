@@ -8,8 +8,8 @@ author: "@Goob_rr"
 
 main: "esoterum.Esoterum"
 
-version: 1.0
+version: 2.0.2
 
-minGameVersion: 147
+minGameVersion: 154
 
 java: true
